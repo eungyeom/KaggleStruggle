@@ -1,1 +1,2 @@
-# KaggleStruggle
+# KaggleStruggle     
+kaggle + dacon + etc 
